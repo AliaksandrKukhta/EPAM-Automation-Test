@@ -106,4 +106,5 @@ public class MailPage {
         sendFolder.click();
         return e_mailMessage.isDisplayed();
     }
+
 }
